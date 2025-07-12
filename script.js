@@ -3,26 +3,26 @@ const products = [
   {
     id: 1,
     name: "Single Burner",
-    price: Php 3500,
+    price: 3500,
     image: "images/sadit.png"
   },
   {
     id: 2,
-    name: "Desk Plant",
-    price: 299,
-    image: "https://i.imgur.com/nL0zksF.jpeg"
+    name: "Double Burner",
+    price: 4500,
+    image: "images/IMG_0012(1).png"
   },
   {
     id: 3,
-    name: "Soft Blanket",
-    price: 499,
-    image: "https://i.imgur.com/lpK42Xw.jpeg"
+    name: "Mini Kalan",
+    price: 2500,
+    image: "images/sadit.png"
   },
   {
     id: 4,
-    name: "LED Table Lamp",
-    price: 899,
-    image: "https://i.imgur.com/VABNxGx.jpeg"
+    name: "Separated Burner",
+    price: 3500,
+    image: "images/suway.png"
   }
 ];
 
