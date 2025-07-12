@@ -2,9 +2,9 @@
 const products = [
   {
     id: 1,
-    name: "Minimalist Mug",
-    price: 199,
-    image: "https://i.imgur.com/1vLQO7U.jpeg"
+    name: "Single Burner",
+    price: Php 3500,
+    image: "single.png"
   },
   {
     id: 2,
