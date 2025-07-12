@@ -4,7 +4,7 @@ const products = [
     id: 1,
     name: "Single Burner",
     price: Php 3500,
-    image: "https://github.com/EngrJoong/ecommerce-app/blob/main/images/sadit.png"
+    image: "images/sadit.png"
   },
   {
     id: 2,
